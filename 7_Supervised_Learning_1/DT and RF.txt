@@ -1,0 +1,16 @@
+https://www.newtechdojo.com/intuitive-introduction-decision-trees/
+
+
+https://towardsdatascience.com/a-dive-into-decision-trees-a128923c9298
+
+https://scientistcafe.com/ids/splitting-criteria
+
+Random Forest: https://shelf.io/blog/random-forests-in-machine-learning/
+
+https://carpentries-incubator.github.io/ml4bio-workshop/04-trees-overfitting/index.html
+
+https://www.explorium.ai/blog/machine-learning/the-complete-guide-to-decision-trees/
+
+Decision Tree Regressor: https://www.saedsayad.com/decision_tree_reg.htm
+
+https://www.youtube.com/watch?v=ZVR2Way4nwQ
