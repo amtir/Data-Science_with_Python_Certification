@@ -1,0 +1,9 @@
+Agenda for the week
+1. NumPy
+2. Visualization (plot lines .plot, bar chart .bar, horizontal .barh, histogram .hist, pie chat .pie, scatter plot .scatter)
+3. Pandas 
+4. Introduction to Machine Learning and its categories 
+
+PyPI  Python Package Index 
+https://pypi.org/project/matplotlib/ 
+

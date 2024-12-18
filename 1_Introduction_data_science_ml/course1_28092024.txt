@@ -1,0 +1,8 @@
+Jupiter
+Colab Collaborative notebook (free google open source) 
+
+1 Python
+2 AI & ML 
+
+
+
