@@ -1,0 +1,12 @@
+
+
+Data Science & Machine Learning Internship Program:
+
+1 - Prepare and process and analyze your data using Pandas, NumPy, Matplotlib , and Seaborn libraries of Python
+
+2 - Build and evaluate your Regression and Classification models, and perform Clustering, Association Rule Mining and Time Series Analysis using Scikit-learn library of Python.
+
+3 - Learn image recognition using CNN, and sequences using RNN in Deep Learning. Tools you will use: Python, TensoFlow 2.x, and Keras.
+
+4 - Visualize your data, create charts and dashboards for your data using Tableau
+
